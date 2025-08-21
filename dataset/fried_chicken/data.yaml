@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['0', '1', 'Chicken -Fried Chicken-', 'White Rice -Boiled Rice-', 'ayam-goreng', 'fried chicken', 'fried_chicken']
+
+roboflow:
+  workspace: lanz-linag
+  project: fried-chicken-detection-rn27h
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lanz-linag/fried-chicken-detection-rn27h/dataset/1
