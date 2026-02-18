@@ -46,7 +46,7 @@ source: null
 vid_stride: 1
 stream_buffer: false
 visualize: false
-augment: true
+augment: false
 agnostic_nms: false
 classes: null
 retina_masks: false

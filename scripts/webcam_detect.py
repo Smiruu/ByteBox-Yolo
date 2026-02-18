@@ -4,7 +4,7 @@ from datetime import datetime
 import numpy as np
 
 # Load the trained YOLOv8 model
-model = YOLO(r"C:\Users\lanz\Desktop\ByteBox-Yolo\runs\detect\train4\weights\best.pt")
+model = YOLO(r"C:\Users\lanz\Desktop\ByteBox-Yolo\runs\detect\train\weights\best.pt")
 
 # Open the webcam
 cap = cv2.VideoCapture(0)
@@ -17,8 +17,8 @@ CONFIDENCE_THRESHOLD = 0.70
 WHITE_THRESHOLD = 245
 WHITE_PERCENT = 0.90
 
-# Target foods
-TARGET_FOODS = {"white_rice", "pandesal", "fried_chicken"}
+# Target foods (ONLY TWO)
+TARGET_FOODS = {"white_rice", "filipino_spaghetti"}
 
 # Track foods currently logged to avoid repeats
 logged_foods = set()

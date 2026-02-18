@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Filipino Spaghetti']
+
+roboflow:
+  workspace: lanz-linag
+  project: spaghetti-detection-forn2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lanz-linag/spaghetti-detection-forn2/dataset/1

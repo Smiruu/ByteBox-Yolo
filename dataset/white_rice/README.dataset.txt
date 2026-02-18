@@ -1,4 +1,4 @@
-# rice-detection > ricev2
+# rice-detection > 2026-02-16 3:08pm
 https://universe.roboflow.com/lanz-linag/rice-detection-xgv0k
 
 Provided by a Roboflow user

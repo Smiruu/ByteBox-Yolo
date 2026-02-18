@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['For state of the art Computer Vision training notebooks you can use with this dataset- The dataset includes 2860 images-', 'Pancit', 'pancit bihon', 'pancit canton']
+
+roboflow:
+  workspace: lanz-linag
+  project: pansit-bihon
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lanz-linag/pansit-bihon/dataset/3

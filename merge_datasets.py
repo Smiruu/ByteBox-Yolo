@@ -5,8 +5,11 @@ import shutil
 # List all dataset folders here
 datasets = [
     r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\white_rice",
-    r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\pandesal",
-    r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\fried_chicken",  
+    r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\filipino_spaghetti",
+    r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\pancit_bihon",
+    r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\caldareta", 
+    r"C:\Users\lanz\Desktop\ByteBox-Yolo\dataset\ginataang_gulay",
+
 
     # Add more datasets here later...
 ]
