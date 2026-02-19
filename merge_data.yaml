@@ -3,4 +3,4 @@ val: C:/Users/lanz/Desktop/ByteBox-Yolo/merged_dataset/valid/images
 test: C:/Users/lanz/Desktop/ByteBox-Yolo/merged_dataset/test/images
 
 nc: 5
-names: ['white rice', 'filipino spaghetti', 'pancit bihon', 'caldareta', 'ginataang gulay']
+names: ['white rice', 'filipino spaghetti', 'pancit bihon', 'caldereta', 'ginataang gulay']
