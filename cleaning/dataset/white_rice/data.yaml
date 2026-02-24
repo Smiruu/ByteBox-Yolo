@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Chicken -Chicken Inasal-', 'White Rice -Boiled Rice-', 'White Rice -Fried Rice-', 'rice']
+
+roboflow:
+  workspace: lanz-linag
+  project: rice-detection-xgv0k
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lanz-linag/rice-detection-xgv0k/dataset/7

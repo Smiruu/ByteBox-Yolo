@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['caldareta', 'caldereta', 'menudo', 'pork caldereta']
+
+roboflow:
+  workspace: lanz-linag
+  project: kaldereta
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lanz-linag/kaldereta/dataset/3

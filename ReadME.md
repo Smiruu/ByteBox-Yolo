@@ -8,7 +8,7 @@ This project uses a YOLOv8 model trained to detect rice using a webcam feed. Whe
 
 - Windows OS
 - Python 3.10 (installed via Anaconda)
-- GPU with CUDA 11.8 support (e.g., GTX 1060 6GB)
+- GPU with CUDA 11.8 support
 - Anaconda
 
 ---
